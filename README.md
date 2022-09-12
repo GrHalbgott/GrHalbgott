@@ -11,6 +11,7 @@ How to reach me: use the <a href="https://github.com/GrHalbgott/GrHalbgott/discu
 I can share further contact information after a first "hello world" from you 😁
 
 Looking forward to hear from you!
+---
 
 ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
 
