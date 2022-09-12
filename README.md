@@ -15,18 +15,18 @@ Best, GrHalbgott
 
 ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
 
-<p>
-  <p align="left">
+<div id="row1">
+  <div class="inline-block">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott" />
     </a>
-  </p>
-  <p align="right">
+  </div>
+  <div class="inline-block">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" alt="grhalbgott" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" alt="grhalbgott"/>
     </a>
-  </p>
-</p>
+  </div>
+</div>
 
 <p>
 <h3>Languages and Tools:</h3>
@@ -34,7 +34,7 @@ Best, GrHalbgott
 
 <p align="right">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
 </a>
 </p>
 </p>
