@@ -24,6 +24,7 @@ Best, GrHalbgott
   </a>
 </p>
 
+<!--
 ## Languages and Tools:
 <div id="row2">
   <div style="display:inline-block">
@@ -35,3 +36,4 @@ Best, GrHalbgott
     </a>
   </div>
 </div>
+-->
