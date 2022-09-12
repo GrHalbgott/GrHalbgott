@@ -22,7 +22,7 @@ Best, GrHalbgott
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" alt="grhalbgott"/>
 </a>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <hr>
 
 ## Languages and Tools:
