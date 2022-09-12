@@ -18,7 +18,7 @@ Best, GrHalbgott
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&locale=en" alt="grhalbgott" /></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+# <img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grhalbgott" alt="grhalbgott" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
