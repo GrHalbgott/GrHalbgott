@@ -15,14 +15,14 @@ Best, GrHalbgott
 
 ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
 
-<section>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" alt="grhalbgott"/>
 </a>
-</section>
+
+<hr>
 
 <section>
 ## Languages and Tools:
@@ -36,3 +36,4 @@ Best, GrHalbgott
     </a>
   </div>
 </div>
+</section>
