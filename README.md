@@ -41,5 +41,5 @@ Trophy display             | GrHalbgott's GitHub Stats
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
 </a>
