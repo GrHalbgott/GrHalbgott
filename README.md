@@ -1,4 +1,4 @@
-### Hi there, thank you for visiting my profile👋
+## Hi there, thank you for visiting my profile👋
 
 I am GrHalbgott, a Master's student at Heidelberg University in Geography and Geoinformatics. There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄
 
@@ -27,12 +27,10 @@ Best, GrHalbgott
     </a>
   </div>
 </div>
-<br/>
-<br/>
 
+## Languages and Tools:
 <div id="row2">
   <div style="display:inline-block">
-    <h3>Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
   </div>
   <div style="display:inline-block">
