@@ -24,8 +24,6 @@ Trophy display             | GrHalbgott's GitHub Stats
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
-<!--
-<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> -->
 <a href="https://www.gimp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
