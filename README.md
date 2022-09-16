@@ -18,7 +18,9 @@ Looking forward to hear from you!
 
 Trophy display             | GrHalbgott's GitHub Stats
 :-------------------------:|:-------------------------:
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott"/> </a>  |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" alt="grhalbgott"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott"/> </a> 
+| 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" alt="grhalbgott"/></a>
 
 ## Languages and Tools:
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
