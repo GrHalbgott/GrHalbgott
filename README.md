@@ -16,14 +16,12 @@ Looking forward to hear from you!
 
 ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
 
-Trophy display             | GrHalbgott's GitHub Stats
-:-------------------------:|:-------------------------:
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott"/> </a> 
-| 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" alt="grhalbgott"/></a>
-
-## Languages and Tools:
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+| Trophy display | GrHalbgott's GitHub Stats | 
+|:---------------|:-------------------------:|
+| <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott"/> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" alt="grhalbgott"/></a> |
+| Languages and Tools | Most used languages |
+|:-------------------:|:-------------------:|
+| <p><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
@@ -40,8 +38,6 @@ Trophy display             | GrHalbgott's GitHub Stats
 <a href="https://www.rstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
 <a href="https://www.ibm.com/de-de/analytics/spss-statistics-software" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </p> | <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
-</a>
+</a> |
