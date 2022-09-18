@@ -14,7 +14,9 @@ Looking forward to hear from you!
 
 ---
 
-![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
+<!--
+  ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
+ -->
 
 Trophy display             | GrHalbgott's GitHub Stats
 :-------------------------:|:-------------------------:
