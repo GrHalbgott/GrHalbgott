@@ -4,7 +4,7 @@ I am Niko, a Master's student at Heidelberg University in Geography and Geoinfor
 
 Currently I am trying to implement new stuff into different projects to learn more about coding, versioning and additional topics.
 
-I would gladly have the chance collaborate with you if you have some ideas for really anything, be it coding, music or scientific work. 
+I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, music or scientific work. 
 Of course you can ask me anything, I am happy to get in touch with you! ✨
 
 How to reach me: use the <a href="https://github.com/GrHalbgott/GrHalbgott/discussions">Discussions</a> section or write an email to <niko.k@posteo.org>.
