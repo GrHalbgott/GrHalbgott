@@ -1,4 +1,4 @@
-## Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/>
+<h2 align="center"> Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/></h2>
 
 <div align="center">
 I am Niko, a Master's student at Heidelberg University in Geography and Geoinformatics. There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄 <br/><br/>
@@ -7,12 +7,10 @@ I am Niko, a Master's student at Heidelberg University in Geography and Geoinfor
 
 🕺💃 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, making music or doing scientific work. 
 
-🤔 Of course you can ask me anything, I am happy to get in touch with you! ✨
-
 How to reach me: <br/><br/>
 <a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> &#8287;&#8287;&#8287;&#8287; <a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
   
-Looking forward to hear from you!
+Looking forward to hear from you! ✨
 </div>
 
 <p align="center">
@@ -21,18 +19,18 @@ Looking forward to hear from you!
 </p>
 
 <p align="center">
-Currently listening to on Spotify:
+Currently listening to on Spotify: <br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
 
-## GitHub statistics
+<h2 align="center">GitHub statisticss</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
 </p>
 
-## Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
@@ -55,4 +53,3 @@ Currently listening to on Spotify:
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/></a>
 </p>
-
