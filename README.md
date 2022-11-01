@@ -7,13 +7,16 @@ Currently I am trying to implement new stuff into different projects to learn mo
 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, music or scientific work. 
 Of course you can ask me anything, I am happy to get in touch with you! ✨
 
-How to reach me: use the <a href="https://github.com/GrHalbgott/GrHalbgott/discussions">Discussions</a> section or write an email to <niko.k@posteo.org>.
+How to reach me:
+<a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
+
 I can share further contact information after a first "hello world" from you 😁
 
 Looking forward to hear from you!
 
 <p>
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=50%&height=45&lines=Geography;Human+aid;Nature">
+<a href=""><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=50%&height=45&lines=Geography;Human+aid;Nature"></a>
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=50%&height=45&lines=Geoinformatics;Sustainability;Music">
 </p>
 
