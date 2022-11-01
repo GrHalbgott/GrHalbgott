@@ -31,7 +31,7 @@ Looking forward to hear from you!
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark&hide_title=true">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=dracula">
 </p>
 
 ## Languages and Tools
