@@ -14,7 +14,7 @@ Looking forward to hear from you!
 
 <p align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=333&color=1FCBF7&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=333&color=1FCBF7&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=333&color=8C1AFF&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
     
