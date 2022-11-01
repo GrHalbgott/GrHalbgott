@@ -29,7 +29,9 @@ Looking forward to hear from you!
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
 </p>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark">
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark">
+</p>
 
 ## Languages and Tools
 
