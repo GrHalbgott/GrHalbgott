@@ -1,4 +1,4 @@
-## Hi there, thank you for visiting my profile👋
+## Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/>👋
 
 I am Niko, a Master's student at Heidelberg University in Geography and Geoinformatics. There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄
 
