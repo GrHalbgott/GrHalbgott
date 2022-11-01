@@ -13,9 +13,8 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 Looking forward to hear from you!
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=440&height=45&color=#1FCBF7&vCenter=true&size=26&duration=666&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&width=440&height=45&color=#8C1AFF&vCenter=true&size=26&duration=666&lines=Geoinformatics;Sustainability;Music">   </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=440&height=45&color=#8C1AFF&vCenter=true&size=26&duration=666&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
 </p>
 
 ---
