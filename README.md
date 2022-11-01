@@ -15,6 +15,7 @@ Looking forward to hear from you!
 <div style="text-align: center;">
 <div style="text-align: left;">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#1FCBF7&size=26&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
 </div>
 <div style="text-align: right;">
