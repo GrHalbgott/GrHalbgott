@@ -20,7 +20,7 @@ Looking forward to hear from you!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true)
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music">
 
 ---
 <!--
