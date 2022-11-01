@@ -14,6 +14,7 @@ Looking forward to hear from you!
 
 <p align="center">
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=#1FCBF7&size=26&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature"> </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music"> </a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"> <img src="(https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)"> </a>
 </p>
