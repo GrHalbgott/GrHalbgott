@@ -13,7 +13,7 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 Looking forward to hear from you!
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Geography;Human+aid;&center=true&width=440&height=45&color=#1FCBF7FF&vCenter=true&size=26&duration=666">   </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Geography;Human+aid;&center=true&width=440&height=45&color=#1FCBF7&vCenter=true&size=26&duration=666">   </a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Geoinformatics;Sustainability;Music&center=true&width=440&height=45&color=#8C1AFF&vCenter=true&size=26&duration=666">   </a>
 </p>
 
