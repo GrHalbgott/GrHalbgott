@@ -23,7 +23,9 @@ Looking forward to hear from you!
 
 Trophy display             | GrHalbgott's GitHub Stats
 :-------------------------:|:-------------------------:
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" alt="grhalbgott"/> </a>  |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" alt="grhalbgott"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>  |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true" height="192px" alt="grhalbgott"/></a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark)
 
 ## Languages and Tools
 
