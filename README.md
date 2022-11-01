@@ -12,14 +12,9 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 
 Looking forward to hear from you!
 
-<div>
-<div style="text-align:left;">  
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&color=1FCBF7&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature">
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&color=8C1AFF&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music">
-</div>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
-</div>
 ---
 <!--
     ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
@@ -56,3 +51,5 @@ Looking forward to hear from you!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
 </a>
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
