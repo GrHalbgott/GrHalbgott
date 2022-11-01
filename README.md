@@ -15,8 +15,8 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 Looking forward to hear from you!
 
 <p>
-<a href=""><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Human+aid;Nature"></a>
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Sustainability;Music">
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Human+aid;Nature"></a> &
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Sustainability;Music">
 </p>
 
 <br/>
