@@ -23,7 +23,7 @@ Looking forward to hear from you! ✨
 <h3 align="center">Currently listening to on Spotify:</h3>
 
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
 
 <h2 align="center">GitHub statistics</h2>
