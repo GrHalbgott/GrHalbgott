@@ -14,7 +14,9 @@ Looking forward to hear from you!
 
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&color=1FCBF7&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature">
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&color=8C1AFF&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music">
+
 <br/>
+
 ---
 <!--
     ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
