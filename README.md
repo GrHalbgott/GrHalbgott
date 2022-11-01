@@ -12,8 +12,10 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 
 Looking forward to hear from you!
 
+<p>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature">
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music">
+</p>
 
 <br/>
 
@@ -27,7 +29,7 @@ Looking forward to hear from you!
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark">
 
 ## Languages and Tools
 
