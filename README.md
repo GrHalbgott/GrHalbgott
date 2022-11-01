@@ -1,5 +1,7 @@
 <h2 align="center"> Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/></h2>
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
 <div align="center">
   I am Niko, a Master's student at Heidelberg University in <b>Geography and Geoinformatics</b>. <br/><br/>
   
