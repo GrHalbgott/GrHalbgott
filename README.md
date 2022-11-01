@@ -8,6 +8,7 @@ I would gladly have the chance to collaborate with you if you have some ideas fo
 Of course you can ask me anything, I am happy to get in touch with you! ✨
 
 How to reach me:
+
 <a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
 
