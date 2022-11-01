@@ -1,6 +1,6 @@
 ## Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/>
 
-<div style="text-align:center;">
+<div align="center">
 I am Niko, a Master's student at Heidelberg University in Geography and Geoinformatics. There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄 <br/><br/>
 Currently I am trying to implement new stuff into different projects to learn more about coding, versioning and additional topics. <br/><br/>
 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, music or scientific work. 
@@ -12,23 +12,22 @@ Looking forward to hear from you!
 </div>
 
 <p align="center">
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Human+aid;Nature"></a>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Sustainability;Music">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Human+aid;Nature"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=666&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Sustainability;Music"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
+</a> <br/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
 
 ---
 
-<!--
-    ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
--->
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
-</p>
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=dracula">
 </p>
 
 ## Languages and Tools
@@ -52,11 +51,4 @@ Looking forward to hear from you!
 <a href="https://www.ibm.com/de-de/analytics/spss-statistics-software" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
-</a> <br/>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
