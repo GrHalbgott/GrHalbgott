@@ -12,10 +12,8 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 
 Looking forward to hear from you!
 
-<p align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=440&height=45&color=#1FCBF7&vCenter=true&size=26&duration=666&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=440&height=45&color=#8C1AFF&vCenter=true&size=26&duration=666&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
-</p>
 
 ---
 <!--
