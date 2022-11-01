@@ -12,9 +12,13 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 
 Looking forward to hear from you!
 
+<div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#1FCBF7&size=26&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true)
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music"/>
 
@@ -54,7 +58,3 @@ Looking forward to hear from you!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
 </a>
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true)
