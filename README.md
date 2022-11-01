@@ -20,17 +20,18 @@ Looking forward to hear from you!
 </p>
 
 ---
+
 <!--
     ![](https://komarev.com/ghpvc/?username=grhalbgott&label=PROFILE+VIEWS)
 -->
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark&hide_title=true">
 </p>
 
 ## Languages and Tools
