@@ -12,22 +12,11 @@ I can share further contact information after a first "hello world" from you ðŸ˜
 
 Looking forward to hear from you!
 
-<div style="text-align: center;">
-<div style="text-align: left;">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#1FCBF7&size=26&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature)](https://git.io/typing-svg)
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music)](https://git.io/typing-svg)
-    
-</div>
-<div style="text-align: right;">
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true)
-    
-</div>
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music">
+<p align="center">
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=#1FCBF7&size=26&center=true&vCenter=true&width=440&height=45&lines=Geography;Human+aid;Nature"> </a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=#8C1AFF&size=26&center=true&vCenter=true&width=440&height=45&lines=Geoinformatics;Sustainability;Music"> </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"> <img src="(https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)"> </a>
+</p>
 
 ---
 <!--
@@ -35,8 +24,8 @@ Looking forward to hear from you!
 -->
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&theme=dracula&include_all_commits=true" height="192px" alt="grhalbgott"/> </a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grhalbgott&theme=github_dark)
