@@ -58,7 +58,6 @@ Looking forward to hear from you!
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/>
-</a>
-    
+</a> <br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
