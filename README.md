@@ -34,7 +34,7 @@ Looking forward to hear from you! ✨
 
 <h2 align="center">Languages and Tools</h2>
 
-<p align="center">
+<p width="80% align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -54,7 +54,7 @@ Looking forward to hear from you! ✨
 <a href="https://www.raspberrypi.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.rstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
 <a href="https://www.ibm.com/de-de/analytics/spss-statistics-software" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/> </a>
-<a href="https://typo3.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="typo3" width="40" height="40"/> </a> <br/>
+<a href="https://typo3.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="typo3" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <br/>
   
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/></a>
