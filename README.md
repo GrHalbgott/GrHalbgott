@@ -13,8 +13,8 @@ Looking forward to hear from you! ✨
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Sustainability;Nature"></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Humanitarian+aid;Music"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Sustainability;Nature;Computers"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Humanitarian+aid;Music;Gaming"></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Looking forward to hear from you! ✨
 
 <h2 align="center">Languages and Tools</h2>
 
-<p width="80% align="center">
+<p width="80%" align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
