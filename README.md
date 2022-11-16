@@ -2,7 +2,7 @@
 <div align="center">
   I am Niko, a Master's student at Heidelberg University in <b>Geography and Geoinformatics</b>. <br/><br/>
   
-📖 There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄 <br/><br/>
+📚 There is not much to find here yet besides some first projects and a repository about my hobby no. 1, but if you are interested in coding and music, I am happily welcoming you to a fitting growing place 😄 <br/><br/>
 
 🕺💃 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, making music or doing scientific work. 
 
