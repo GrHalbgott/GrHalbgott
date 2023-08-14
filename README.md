@@ -43,6 +43,7 @@ Looking forward to hear from you! ✨
 <a href="https://www.gimp.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
+<a href="https://inkscape.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://jquery.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
