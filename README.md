@@ -2,14 +2,9 @@
 <div align="center">
   I am Niko, a Master's student at Heidelberg University in <b>Geography and Geoinformatics</b>. <br/><br/>
   
-📚 My main goal by having and updating this repository is to be able to show you my work and skills in order to raise your interest in doing possible collaborations with me. There is so much more one can learn and experience and I am ready to take on new challenges you could offer me.<br/><br/>
-Therefore, have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding.
+📚 My main goal by having and updating this repository is to be able to show you my work and skills in order to raise your interest in doing possible collaborations with me. There is so much more one can learn and experience and I am ready to take on new challenges you could offer me. Therefore, have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding. 😄 
 
-Some other projects I contributed to are:  
-[Social Media 2 Traffic project: Routing Evaluation](https://github.com/GIScience/foss4g-2023-routing-evaluation.git)  
-HEAL project: Routing Evaluation (in progress)
-
-Additionally, there is a repository about my hobby no. 1 (making/writing music under the name Atlas Descending) and if you are interested in new music from different genres, I am happily welcoming you to a fitting growing place 😄 
+Additionally, there is a repository about my hobby no. 1 (making/writing music under the name Atlas Descending) and if you are interested in new music from different genres, I am happily welcoming you to a fitting growing place. 🤘
 
 🕺💃 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, making music, doing scientific work or something completely different but fun. 
 
