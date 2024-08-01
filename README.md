@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/></h2>
 <div align="center">
-  I am Niko, nature-lover, gamer, geographer, and musician, with a special interest in deep learning, remote sensing, humanitarian aid, and environmental sustainability. That mainly comes from my M.Sc. in <b>Geography and Geoinformatics</b>, where geeky stuff meets environmental impact. <br/><br/>
+👋 I am Niko, nature-lover, gamer, geographer, and musician, with a special interest in deep learning, remote sensing, humanitarian aid, and environmental sustainability. That mainly comes from my M.Sc. in Geography and Geoinformatics, where geeky stuff meets environmental impact. <br/><br/>
   
-😄 And that geeky stuff I mentioned, that is summarized here. Sometimes with a environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding. 
+😄 And the geeky stuff, that is summarized here. Sometimes with a environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding. 
 
 🤘 Additionally, there is a repository about my hobby no. 1 (making/writing music under the name [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott)) and if you are interested in new music from different genres, I am happily welcoming you to a fitting growing place. 
 
