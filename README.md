@@ -1,14 +1,12 @@
 <h2 align="center"> Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/></h2>
 <div align="center">
-  I am Niko, a Master's student at Heidelberg University in <b>Geography and Geoinformatics</b>. <br/><br/>
+  I am Niko, nature-lover, gamer, geographer, and musician, with a special interest in deep learning, remote sensing, humanitarian aid, and environmental sustainability. That mainly comes from my M.Sc. in <b>Geography and Geoinformatics</b>, where geeky stuff meets environmental impact. <br/><br/>
   
-📚 My main goal by having and updating this repository is to be able to show you my work and skills in order to raise your interest in doing possible collaborations with me. There is so much more one can learn and experience and I am ready to take on new challenges you could offer me. 
-
-😄 Therefore, have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding. 
+😄 And that geeky stuff I mentioned, that is summarized here. Sometimes with a environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own or in collaboration with others with various topics surrounding geoinformatics and coding. 
 
 🤘 Additionally, there is a repository about my hobby no. 1 (making/writing music under the name [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott)) and if you are interested in new music from different genres, I am happily welcoming you to a fitting growing place. 
 
-🕺💃 I would gladly have the chance to collaborate with you if you have some ideas for really anything, be it coding, making music, doing scientific work or something completely different but fun. 
+🕺💃 I would gladly collaborate with you if you have some ideas for really anything, be it coding, making music, doing scientific work, or something completely different but fun. 
 
 How to reach me: <br/><br/>
 <a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> &#8287;&#8287;&#8287;&#8287; <a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
