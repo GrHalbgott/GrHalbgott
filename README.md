@@ -9,7 +9,7 @@
 🕺💃 I would gladly collaborate with you if you have some ideas for really anything, be it coding, making music, doing scientific work, or something completely different but fun. 
 
 How to reach me: <br/><br/>
-<a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> &#8287;&#8287;&#8287;&#8287; <a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
+<a href="https://www.linkedin.com/in/nikolaos-kolaxidis/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a> &#8287;&#8287;&#8287;&#8287; <a href="mailto:niko.k@posteo.org"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
   
 ✨ Looking forward to hear from you! ✨
 </div>
