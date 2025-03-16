@@ -2,7 +2,7 @@
 <div align="center">
 👋 I am Niko, nature-lover, star-gazer, gamer, geographer, and musician, with a special interest in deep learning, humanitarian aid, and environmental sustainability. These mainly come from my M.Sc. in Geography and Geoinformatics, where geeky stuff meets positive environmental impact. <br/><br/>
   
-😄 And the geeky stuff, that is summarized here. Sometimes with an environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own, or in collaboration with others with various topics surrounding geoinformatics, coding, and others. 
+😄 And the geeky stuff, that is summarized here. Sometimes with an environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own, or in collaboration with others with various topics surrounding geoinformatics, music, and others. 
 
 🤘 Additionally, there is a repository about my hobby no. 1 (making/writing music under the name [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott)), and if you are interested in new genre-spanning music, I am happily welcoming you to a fitting growing place. 
 
@@ -19,13 +19,20 @@ How to reach me: <br/><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Humanitarian+aid;Music;Gaming"></a>
 </p>
 
----
+<p align="center">
+  <a href="https://gist.github.com/GrHalbgott">
+    <img src="https://img.shields.io/badge/My%20Gists-Click%20Here-blue?style=for-the-badge" alt="Go to my Gists">
+  </a>
+</p>
 
+---
+<!-- deployment currently paused
 <h3 align="center">Currently listening to on Spotify:</h3>
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></a>
 </p>
+-->
 
 <h2 align="center">GitHub statistics</h2>
 
