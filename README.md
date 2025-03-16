@@ -41,20 +41,22 @@ How to reach me: <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=grhalbgott&theme=dracula&row=2&column=3" height="192px" alt="grhalbgott"/> </a>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/GrHalbgott/GrHalbgott/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 <h2 align="center">Languages and Tools</h2>
 
