@@ -1,10 +1,10 @@
 <h2 align="center"> Hi there, thank you for visiting my profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px" height="30px"/></h2>
 <div align="center">
-👋 I am Niko, nature-lover, star-gazer, gamer, geographer, and musician, with a special interest in deep learning, humanitarian aid, and environmental sustainability. These mainly come from my M.Sc. in Geography and Geoinformatics, where geeky stuff meets positive environmental impact. <br/><br/>
+👋 I am Niko, nature-lover, star-gazer, gamer, geographer, nerd, and musician, with a special interest in deep learning, humanitarian aid, and environmental sustainability. These mainly come from my M.Sc. in Geography and Geoinformatics, where geeky stuff meets positive environmental impact. <br/><br/>
   
-😄 And the geeky stuff, that is summarized here. Sometimes with an environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own, or in collaboration with others with various topics surrounding geoinformatics, music, and others. 
+😄 And the geeky stuff, that is summarized here. Sometimes with an environmental connection, sometimes without. Have fun browsing through projects I made during my education, on my own, or in collaboration with others with various topics surrounding (geo)informatics, music, and others. 
 
-🤘 Additionally, there is a repository about my hobby no. 1 (making/writing music under the name [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott)), and if you are interested in new genre-spanning music, I am happily welcoming you to a fitting growing place. 
+🤘 Additionally, there is a repository about my hobby no. 1 (making/writing music under the name [Atlas Descending](https://github.com/GrHalbgott/Atlas_Descending)), and if you are curious about some genre-spanning music, I am happily welcoming you to a fitting growing place. 
 
 🕺💃 I would gladly collaborate with you if you have some ideas for really anything, be it coding, making music, doing scientific work, or something completely different but fun. 
 
@@ -15,13 +15,13 @@ How to reach me: <br/><br/>
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&duration=2500&&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Sustainability;Nature;Computers"></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Humanitarian+aid;Music;Gaming"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&duration=2500&&color=1FCBF7&center=true&vCenter=true&width=350&height=45&lines=Geography;Sustainability;Nature;Music"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8C1AFF&center=true&vCenter=true&width=350%&height=45&lines=Geoinformatics;Humanitarian+aid;Computers;Gaming"></a>
 </p>
 
 <p align="center">
   <a href="https://gist.github.com/GrHalbgott">
-    <img src="https://img.shields.io/badge/My%20Gists-Click%20Here-blue?style=for-the-badge" alt="Go to my Gists">
+    <img src="https://img.shields.io/badge/My_Gists-Click_Here-8C1AFF?style=flat&labelColor=1FCBF7" alt="Go to my Gists">
   </a>
 </p>
 
@@ -83,5 +83,5 @@ How to reach me: <br/><br/>
   <a href="https://www.ibm.com/de-de/analytics/spss-statistics-software" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/> </a>
   <a href="https://typo3.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="typo3" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact" alt="grhalbgott"/> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&theme=dracula&layout=compact&langs_count=10&size_weight=0.5&count_weight=1.5" alt="grhalbgott"/> </a>
 </p>
