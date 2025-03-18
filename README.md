@@ -37,8 +37,6 @@ How to reach me: <br/><br/>
   </a>
 </p>
 
-<h2 align="center">GitHub statistics</h2>
-
 <!-- STATS CARDS -->
 <p align="center">
   <picture>
@@ -82,8 +80,6 @@ How to reach me: <br/><br/>
     />
   </picture>
 </p>
-
-<h2 align="center">Languages and Tools</h2>
 
 <!-- LANGUAGES & TOOLS + GITHUB STATS -->
 <table align="center" border="0">
@@ -151,7 +147,7 @@ How to reach me: <br/><br/>
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grhalbgott&layout=compact&langs_count=10&size_weight=0.5&count_weight=1.5"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
               />
-              <img src="https://github.com/anuraghazra/github-readme-stats" height=195 alt="often used languages by grhalbgott"/>
+              <img src="https://github.com/anuraghazra/github-readme-stats" height=193 alt="often used languages by grhalbgott"/>
             </picture>
           </td>
         </tr>
