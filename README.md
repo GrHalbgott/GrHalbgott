@@ -39,7 +39,10 @@ How to reach me: <br/><br/>
 
 <!-- STATS CARDS -->
 <p align="center">
-  <picture>
+  <!-- DEPLOY 
+    https://github.com/anuraghazra/github-readme-stats
+  -->
+  <!-- <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=grhalbgott&show_icons=true&include_all_commits=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
@@ -49,7 +52,7 @@ How to reach me: <br/><br/>
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazr" height=200 alt="statistics about grhalbgott's github"/>
-  </picture>
+  </picture> -->
   <picture>
     <source
       srcset="https://github-profile-trophy.vercel.app/?username=grhalbgott&row=2&column=4&theme=dracula"
@@ -136,7 +139,10 @@ How to reach me: <br/><br/>
           <td align="center"><a href="https://www.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="25" height="25"/></a></td>
           <td align="center"><a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Subsystem_for_Linux_logo.png" width="25" height="25"/></a></td>
         </tr>
-        <tr>
+        <!-- DEPLOY 
+          https://github.com/anuraghazra/github-readme-stats
+        -->
+        <!-- <tr>
           <td colspan="5" align="center">
             <picture>
               <source
@@ -150,7 +156,7 @@ How to reach me: <br/><br/>
               <img src="https://github.com/anuraghazra/github-readme-stats" height=193 alt="often used languages by grhalbgott"/>
             </picture>
           </td>
-        </tr>
+        </tr> -->
       </table>
     </td>
   </tr>
