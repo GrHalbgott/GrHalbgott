@@ -33,13 +33,13 @@ How to reach me: <br/><br/>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
 <!-- STATS CARDS -->
-<p align="center">
-  <!-- DEPLOY 
+<!-- <p align="center">
+  DEPLOY 
     https://github.com/anuraghazra/github-readme-stats
   -->
   <!-- <picture>
@@ -52,7 +52,7 @@ How to reach me: <br/><br/>
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazr" height=200 alt="statistics about grhalbgott's github"/>
-  </picture> -->
+  </picture>
   <picture>
     <source
       srcset="https://github-profile-trophy.vercel.app/?username=grhalbgott&row=2&column=4&theme=dracula"
@@ -64,7 +64,7 @@ How to reach me: <br/><br/>
     />
     <img src="https://github.com/ryo-ma/github-profile-trophy" height=200 alt="trophies of grhalbgott's github"/>
   </picture>
-</p>
+</p> -->
 
 <!-- SNAKE -->
 <p align="center">
