@@ -31,9 +31,10 @@ How to reach me: <br/><br/>
 
 <h3 align="center">Currently listening to on Spotify:</h3>
 
+<!-- SPOTIFY -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2on4iq7y2j9cw928mivcrf9c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
